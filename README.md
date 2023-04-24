@@ -1,4 +1,4 @@
-# sesh.nvim
+# 💾 Sesh.nvim
 A simple session management extension plugin that works alongside project.nvim.
 
 ## ✨ Features
